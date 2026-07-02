@@ -1,7 +1,13 @@
 <div align="center">
-  <h1>Hi, I'm Jeet Bhardwaj 👋</h1>
-  <p><b>AI & Data Science Engineer | Computer Vision & GenAI Enthusiast</b></p>
-  
+  <h1>Hi there, I'm Jeet Bhardwaj <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="30px" alt="Waving Hand"/></h1>
+
+  <!-- Animated Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0055FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Computer+Vision+Enthusiast;Generative+AI+%26+Deep+Learning;Building+Scalable+ML+Solutions" alt="Typing SVG" />
+  </a>
+  <br/>
+
+  <!-- Social Links -->
   <p>
     <a href="https://linkedin.com/in/thejeetbhardwaj">
       <img src="https://img.shields.io/badge/LinkedIn-White?style=for-the-badge&logo=linkedin&logoColor=0055FF&labelColor=white&color=white" alt="LinkedIn" />
@@ -13,36 +19,42 @@
       <img src="https://img.shields.io/badge/Email-White?style=for-the-badge&logo=gmail&logoColor=0055FF&labelColor=white&color=white" alt="Email" />
     </a>
   </p>
+
+  <!-- Profile Views Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=GitHub-JeetBhardwaj&label=Profile%20Views&color=0055FF&style=flat" alt="Profile Views" />
+  </p>
 </div>
 
 <br/>
 
 ### 👨🏻‍💻 About Me
 
-* 🎓 Currently in my 6th semester studying **Artificial Intelligence & Data Science** at MITS, Gwalior.
+* 🎓 Currently in my **6th semester** studying **Artificial Intelligence & Data Science** at MITS, Gwalior.
 * 🔬 Deeply passionate about **Computer Vision**, **Generative AI** (GANs, Diffusion models), and **Digital Forensics**.
-* ✍️ Experienced in drafting detailed technical reports and academic documentation using LaTeX and Overleaf.
+* ✍️ Experienced in drafting detailed technical reports and academic documentation using **LaTeX** and **Overleaf**.
 * 🚀 Always looking to build scalable, real-time machine learning solutions with minimal, clean architectures.
+* 🌱 **Currently learning:** Advanced deployment strategies for LLMs and edge AI.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-White?style=flat-square&logo=python&logoColor=0055FF&labelColor=white&color=ececec" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-White?style=flat-square&logo=c%2B%2B&logoColor=0055FF&labelColor=white&color=ececec" alt="C++" />
-  <img src="https://img.shields.io/badge/TensorFlow-White?style=flat-square&logo=tensorflow&logoColor=0055FF&labelColor=white&color=ececec" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-White?style=flat-square&logo=pytorch&logoColor=0055FF&labelColor=white&color=ececec" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-White?style=flat-square&logo=opencv&logoColor=0055FF&labelColor=white&color=ececec" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Flask-White?style=flat-square&logo=flask&logoColor=0055FF&labelColor=white&color=ececec" alt="Flask" />
+  <br/>
+  <!-- Skill Icons - Generates a beautiful grid of logos automatically -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,opencv,flask,latex,git,github,linux&theme=light" alt="Tech Stack Icons" />
+  </a>
+  <br/>
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-JeetBhardwaj&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0055FF&icon_color=0055FF&text_color=333333" alt="Jeet's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-JeetBhardwaj&theme=default&hide_border=true&background=ffffff&ring=0055FF&fire=0055FF&currStreakNum=333333&sideLabels=0055FF&dates=333333" alt="Jeet's GitHub Streak" />
+  <!-- Dynamic animated stats cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-JeetBhardwaj&show_icons=true&theme=transparent&hide_border=true&title_color=0055FF&icon_color=0055FF&text_color=333333" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-JeetBhardwaj&theme=transparent&hide_border=true&title_color=0055FF&icon_color=0055FF&text_color=333333" width="48%" alt="GitHub Streak" />
 </div>
