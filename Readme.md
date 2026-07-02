@@ -1,198 +1,59 @@
 <div align="center">
 
-# JEET BHARDWAJ
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0055FF&center=true&vCenter=true&width=900&lines=JEET+BHARDWAJ;Artificial+Intelligence+Engineer;Computer+Vision+Researcher;Generative+AI+Developer;Digital+Forensics+Researcher" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1200&color=0055FF&center=true&vCenter=true&width=900&lines=JEET+BHARDWAJ;Artificial+Intelligence+Engineer;Computer+Vision+Researcher;Generative+AI+Developer;Digital+Forensics+Researcher;Building+Intelligent+Systems" />
+**Building Intelligent Systems through Deep Learning, Computer Vision & Generative AI**
 
-<p>
-<b>
-Artificial Intelligence • Computer Vision • Generative AI • Digital Forensics
-</b>
-</p>
+<br/>
 
-<p>
-
-<a href="https://jeet-bhardwaj.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0055FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/thejeetbhardwaj">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/GitHub-JeetBhardwaj">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://huggingface.co/TheJeetBhardwaj">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-
-<a href="mailto:thejeetbhardwaj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://jeet-bhardwaj.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0055FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/thejeetbhardwaj">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/GitHub-JeetBhardwaj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://huggingface.co/TheJeetBhardwaj">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  </a>
+  <a href="mailto:thejeetbhardwaj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-# About
+## 👨‍💻 About Me
 
-I'm an **Artificial Intelligence & Data Science undergraduate** passionate about building intelligent systems that solve real-world problems through **Deep Learning**, **Computer Vision**, and **Generative AI**.
+I am an **Artificial Intelligence & Data Science undergraduate** dedicated to building intelligent systems that solve real-world problems. My expertise lies at the intersection of computational models, spatial computing, and predictive analytics, with a focus on practical impact and applied research.
 
-My work spans research, autonomous AI applications, and intelligent software systems with a focus on practical impact.
-
-- 🎓 **B.Tech in Artificial Intelligence & Data Science**
-  - Madhav Institute of Technology & Science (MITS), Gwalior
-  - **CGPA:** 9.10
-
-- 🎓 **BS in Data Science**
-  - IIT Madras
-
-- 🏆 **GATE Qualified (Data Science)**
-
-- 📚 Research Interests
-  - Computer Vision
-  - Medical Imaging
-  - Vision Transformers
-  - Diffusion Models
-  - Digital Forensics
-  - Explainable AI
+- 🔭 **Focus Areas:** Deep Learning, Autonomous AI Applications, and Intelligent Software Systems.
+- 🌱 **Currently Researching:** Advanced Generative AI architectures and Digital Forensics.
+- 🤝 **Open To:** Research collaborations, open-source AI contributions, and software engineering roles.
+- 💬 **Ask me about:** PyTorch, Computer Vision pipelines, and optimizing ML deployments.
 
 ---
 
-# Tech Stack
+## 🛠️ Technical Arsenal
 
-<p align="center">
+### **Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,flask" alt="Languages and Frameworks" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,flask,linux,git,github,docker,latex,vscode&perline=6"/>
-
+### **Tools, Environment & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,latex,vscode" alt="Tools and Environment" />
 </p>
 
 ---
+> *"Training machines to think, while learning how to rethink."*
 
-# Featured Projects
-
-## 🎨 AnimeGen
-
-Research-oriented image-to-anime generation using GANs, Canny Edge Detection, and Deep Learning.
-
-**Tech**
-
-`GANs` `Python` `OpenCV` `Computer Vision`
-
----
-
-## 🎭 Deepfake Forensics
-
-Deepfake detection framework utilizing FaceForensics++ and FakeAVCeleb datasets for video authenticity analysis.
-
-**Focus**
-
-- Deep Learning
-- Video Analysis
-- Digital Forensics
-
----
-
-## 😴 Real-Time Drowsiness Detection
-
-MediaPipe-powered driver monitoring system capable of lightweight real-time fatigue detection without heavy neural networks.
-
----
-
-## 🎮 AI Gameplay Bot
-
-YOLOv8-powered autonomous Fruit Ninja AI capable of GPU-accelerated object detection and gameplay automation.
-
----
-
-## 📊 GeekFusion Evaluation Engine
-
-Backend evaluation framework built using Flask featuring
-
-- Multi-panel evaluation
-- Automated score normalization
-- Dynamic rankings
-- Event-specific scoring
-
----
-
-# Research Interests
-
-- Computer Vision
-- Deep Learning
-- Vision Transformers
-- Diffusion Models
-- Large Language Models
-- Explainable AI
-- Digital Forensics
-- Medical Image Analysis
-
----
-
-# Publications & Research
-
-- Best Research Paper Award — International Scopus Indexed Conference
-- AI & Computer Vision Research
-- Springer & Scientific Reports LaTeX Formatting
-- Active Research Collaborations
-
----
-
-# Leadership
-
-- Data & Operations Co-Head — Smart India Hackathon (Internal Rounds)
-- Outcome Based Education Coordinator
-- Research Collaboration & Technical Documentation
-
----
-
-# Currently Exploring
-
-- Self-Supervised Learning
-- Vision Language Models
-- AI Agents
-- Multimodal Deep Learning
-- Explainable AI
-- Medical AI
-
----
-
-# Let's Connect
-
-<p align="center">
-
-<a href="https://jeet-bhardwaj.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-0055FF?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/thejeetbhardwaj">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/GitHub-JeetBhardwaj">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://huggingface.co/TheJeetBhardwaj">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-
-<a href="mailto:thejeetbhardwaj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### *"Training machines to think, while learning how to rethink."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=100&section=footer" alt="Footer"/>
 
 </div>
