@@ -1,74 +1,59 @@
 <div align="center">
 
-<!-- AI Terminal Style Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=2000&color=0055FF&center=true&vCenter=true&width=800&height=80&lines=Jeet_Bhardwaj.exe" alt="Jeet Bhardwaj" />
+# 🤖 Hello World, I'm Jeet Bhardwaj! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=555555&center=true&vCenter=true&width=800&height=50&lines=>_Initializing_Neural_Core...;>_Optimizing_GAN_Architectures...;>_Executing_Deepfake_Forensics...;>_Deploying_Intelligent_Systems..." alt="AI Terminal Output" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="AI and Machine Learning Animation">
 
-<p>
-<a href="https://jeet-bhardwaj.vercel.app">
-<img src="https://img.shields.io/badge/Live_Portfolio-0055FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Artificial+Intelligence+Developer;Robotics+%26+Deep+Learning;Always+Learning+%26+Building" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <i>Passionate about training models, writing intelligent algorithms, and turning data into actionable insights.</i>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<a href="mailto:thejeetbhardwaj@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://linkedin.com/in/thejeetbhardwaj">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://huggingface.co/TheJeetBhardwaj">
-<img src="https://img.shields.io/badge/HuggingFace-ffffff?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
 </a>
-<a href="mailto:thejeetbhardwaj@gmail.com">
-<img src="https://img.shields.io/badge/Email-0055FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://leetcode.com/u/Jeet_Bhardwaj_07/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
-</p>
+<a href="https://github.com/GitHub-JeetBhardwaj">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<!-- Animated Profile Views Counter -->
+---
+
+### 🧠 AI & ML Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheJeetBhardwaj&label=System%20Accesses&color=0055FF&style=flat&animation=pulse" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-</div>
-
 ---
 
-## <img src="https://www.svgrepo.com/show/339674/web-developer.svg" width="28" align="center"> Overview
+### ⚡ GitHub Analytics
 
-AI & Data Science undergraduate at MITS Gwalior, specializing in **Computer Vision**, **Generative AI**, and **Deepfake Forensics**. Focused on engineering optimized, high-performance architectures and real-time inference systems. Currently exploring the frontiers of GANs, diffusion models, and robust visual evaluation frameworks.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-JeetBhardwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jeet's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-JeetBhardwaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+</p>
 
----
-
-## <img src="https://www.svgrepo.com/show/235153/robot-artificial-intelligence.svg" width="28" align="center"> Featured Research & Architecture
-
-| <img src="https://www.svgrepo.com/show/246615/artificial-intelligence-brain.svg" width="20" align="center"> AnimeGen | <img src="https://www.svgrepo.com/show/530137/vision.svg" width="20" align="center"> Deepfake Forensics | <img src="https://www.svgrepo.com/show/474372/code.svg" width="20" align="center"> Real-Time State Inference |
-| :--- | :--- | :--- |
-| High-fidelity image-to-anime generator utilizing **custom GAN architectures** and Canny-edge stencils for tight structural control. | High-speed, robust deepfake detection pipeline trained heavily on **FaceForensics++**. Optimized by isolating visual signal inconsistencies for real-time speed. | Real-time driver drowsiness monitoring system leveraging the **MediaPipe Tasks API** for lightning-fast eye detection thresholds and state inference over heavy deep learning models. |
-
----
-
-## <img src="https://www.svgrepo.com/show/474372/code.svg" width="28" align="center"> Technical Arsenal
-
-<div align="center">
-<br>
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,flask&theme=light&perline=6" alt="Languages and ML Stack" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,latex,vscode&theme=light&perline=6" alt="Tools and Environment" />
-</div>
-
----
-
-## <img src="https://www.svgrepo.com/show/205051/analytics-data-analytics.svg" width="28" align="center"> System Analytics
-
-<div align="center">
-  <a href="https://github.com/TheJeetBhardwaj">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheJeetBhardwaj&show_icons=true&theme=light&hide_border=true&title_color=0055FF&icon_color=0055FF&text_color=333333" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/TheJeetBhardwaj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJeetBhardwaj&theme=light&hide_border=true&stroke=0055FF&ring=0055FF&fire=0055FF" height="165" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-<div align="center">
-  
-<!-- Sleek Animated Divider for Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated Line Divider"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="50" height="50" />
 
 </div>
