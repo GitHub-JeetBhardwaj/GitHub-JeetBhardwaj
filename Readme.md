@@ -44,7 +44,8 @@ AI & Data Science undergraduate at MITS Gwalior, specializing in **Computer Visi
 
 
 <br>
-
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=100&section=footer" alt="Footer Animation"/>
 
 </div>
