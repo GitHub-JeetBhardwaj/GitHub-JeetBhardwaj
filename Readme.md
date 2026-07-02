@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=150&section=header&text=Jeet%20Bhardwaj&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Animation" />
+<!-- AI Terminal Style Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=2000&color=0055FF&center=true&vCenter=true&width=800&height=100&lines=Jeet+Bhardwaj" alt="Jeet Bhardwaj" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0055FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Computer+Vision+Researcher;Generative+AI+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=555555&center=true&vCenter=true&width=800&height=50&lines=>_Initializing_Neural_Core...;>_Optimizing_GAN_Architectures...;>_Executing_Deepfake_Forensics...;>_Deploying_Intelligent_Systems..." alt="AI Terminal Output" />
 
 <p>
 <a href="https://jeet-bhardwaj.vercel.app">
@@ -21,7 +22,7 @@
 
 <!-- Animated Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheJeetBhardwaj&label=Profile%20Views&color=0055FF&style=flat&animation=pulse" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TheJeetBhardwaj&label=System%20Accesses&color=0055FF&style=flat&animation=pulse" alt="Profile Views" />
 </p>
 
 </div>
@@ -53,7 +54,7 @@ AI & Data Science undergraduate at MITS Gwalior, specializing in **Computer Visi
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 System Analytics
 
 <div align="center">
   <a href="https://github.com/TheJeetBhardwaj">
@@ -67,6 +68,7 @@ AI & Data Science undergraduate at MITS Gwalior, specializing in **Computer Visi
 <br>
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=100&section=footer" alt="Footer Animation"/>
+<!-- Sleek Animated Divider for Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated Line Divider"/>
 
 </div>
