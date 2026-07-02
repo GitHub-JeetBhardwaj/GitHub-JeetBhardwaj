@@ -9,7 +9,13 @@
 </div>
 
 ---
+# Quote
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Developer Quote">
+</p>
+
+---
 # 🤖 About Me
 
 ```yaml
@@ -134,13 +140,6 @@ Fun Fact:
 
 ---
 
-# Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Developer Quote">
-</p>
-
----
 <div align="center">
 
 ### ⭐ "Building the Future with Artificial Intelligence."
