@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- AI Terminal Style Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=2000&color=0055FF&center=true&vCenter=true&width=800&height=100&lines=Jeet+Bhardwaj" alt="Jeet Bhardwaj" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=2000&color=0055FF&center=true&vCenter=true&width=800&height=80&lines=Jeet_Bhardwaj.exe" alt="Jeet Bhardwaj" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=555555&center=true&vCenter=true&width=800&height=50&lines=>_Initializing_Neural_Core...;>_Optimizing_GAN_Architectures...;>_Executing_Deepfake_Forensics...;>_Deploying_Intelligent_Systems..." alt="AI Terminal Output" />
 
@@ -29,21 +29,21 @@
 
 ---
 
-## 👨‍💻 Overview
+## <img src="https://www.svgrepo.com/show/339674/web-developer.svg" width="28" align="center"> Overview
 
 AI & Data Science undergraduate at MITS Gwalior, specializing in **Computer Vision**, **Generative AI**, and **Deepfake Forensics**. Focused on engineering optimized, high-performance architectures and real-time inference systems. Currently exploring the frontiers of GANs, diffusion models, and robust visual evaluation frameworks.
 
 ---
 
-## 🚀 Featured Research & Architecture
+## <img src="https://www.svgrepo.com/show/235153/robot-artificial-intelligence.svg" width="28" align="center"> Featured Research & Architecture
 
-| 🎨 AnimeGen | 🔍 Deepfake Forensics | 👁️ Real-Time State Inference |
+| <img src="https://www.svgrepo.com/show/246615/artificial-intelligence-brain.svg" width="20" align="center"> AnimeGen | <img src="https://www.svgrepo.com/show/530137/vision.svg" width="20" align="center"> Deepfake Forensics | <img src="https://www.svgrepo.com/show/474372/code.svg" width="20" align="center"> Real-Time State Inference |
 | :--- | :--- | :--- |
 | High-fidelity image-to-anime generator utilizing **custom GAN architectures** and Canny-edge stencils for tight structural control. | High-speed, robust deepfake detection pipeline trained heavily on **FaceForensics++**. Optimized by isolating visual signal inconsistencies for real-time speed. | Real-time driver drowsiness monitoring system leveraging the **MediaPipe Tasks API** for lightning-fast eye detection thresholds and state inference over heavy deep learning models. |
 
 ---
 
-## ⚙️ Technical Arsenal
+## <img src="https://www.svgrepo.com/show/474372/code.svg" width="28" align="center"> Technical Arsenal
 
 <div align="center">
 <br>
@@ -54,7 +54,7 @@ AI & Data Science undergraduate at MITS Gwalior, specializing in **Computer Visi
 
 ---
 
-## 📈 System Analytics
+## <img src="https://www.svgrepo.com/show/205051/analytics-data-analytics.svg" width="28" align="center"> System Analytics
 
 <div align="center">
   <a href="https://github.com/TheJeetBhardwaj">
