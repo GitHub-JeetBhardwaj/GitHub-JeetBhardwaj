@@ -23,17 +23,14 @@ Focus:
   - LLMs
   - Generative AI
   - MLOps
-
-Current Status:
-  Learning:
-    - Multi-Agent AI
-    - RAG
-    - LangGraph
-    - CUDA
-    - Transformers
+  - Multi-Agent AI
+  - RAG
+  - LangGraph
+  - CUDA
+  - Transformers
 
 Fun Fact:
-  "Turning Coffee ☕ into AI Models 🤖"
+  "I loved painting and sketching in my younger spans, now I paint my visions using GANs"
 ```
 
 ---
