@@ -124,16 +124,6 @@ Fun Fact:
 ---
 
 
-# 🔥 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GitHub-JeetBhardwaj&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 💻 LeetCode
 
 <p align="center">
@@ -144,14 +134,8 @@ Fun Fact:
 
 ---
 
-# 🤖 AI Quote
+# Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Programming Quote">
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote">
-</p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Developer Quote">
 </p>
