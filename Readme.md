@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Data+Science;Machine+Learning+Developer;Deep+Learning+Researcher;Computer+Vision+Enthusiast;Generative+AI+Developer;Open+Source+Contributor" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=AI%20%7C%20ML%20%7C%20Deep%20Learning&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=AI%20%7C%20ML%20%7C%20Deep%20Learning&fontSize=45&fontColor=ffffff&animation=fadeIn"/> -->
 
 </div>
 
