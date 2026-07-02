@@ -1,25 +1,23 @@
-
 <div align="center">
 
 # JEET BHARDWAJ
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=0055FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Computer+Vision+Researcher;Generative+AI+Developer;Digital+Forensics+Researcher;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1200&color=0055FF&center=true&vCenter=true&width=900&lines=JEET+BHARDWAJ;Artificial+Intelligence+Engineer;Computer+Vision+Researcher;Generative+AI+Developer;Digital+Forensics+Researcher;Building+Intelligent+Systems" />
 
 <p>
-<img src="https://img.shields.io/badge/STATUS-SYSTEM%20ONLINE-0055FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Gwalior,%20India-black?style=for-the-badge"/>
+<b>
+Artificial Intelligence • Computer Vision • Generative AI • Digital Forensics
+</b>
 </p>
 
-### *Training machines to think, while learning how to rethink.*
-
----
+<p>
 
 <a href="https://jeet-bhardwaj.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-0055FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/thejeetbhardwaj">
-<img src="https://img.shields.io/badge/LinkedIn-0055FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/GitHub-JeetBhardwaj">
@@ -31,198 +29,160 @@
 </a>
 
 <a href="mailto:thejeetbhardwaj@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 </div>
 
 ---
 
-# 👨🏻‍💻 About Me
+# About
 
-I am an **Artificial Intelligence and Data Science undergraduate** passionate about building intelligent systems that combine **Computer Vision, Generative AI, Deep Learning, and Digital Forensics**.
+I'm an **Artificial Intelligence & Data Science undergraduate** passionate about building intelligent systems that solve real-world problems through **Deep Learning**, **Computer Vision**, and **Generative AI**.
 
-My work focuses on creating practical AI solutions while conducting research in modern machine learning architectures and computer vision.
+My work spans research, autonomous AI applications, and intelligent software systems with a focus on practical impact.
 
-Current interests include
+- 🎓 **B.Tech in Artificial Intelligence & Data Science**
+  - Madhav Institute of Technology & Science (MITS), Gwalior
+  - **CGPA:** 9.10
 
-- Computer Vision
-- Diffusion Models
-- Large Language Models
-- Digital Forensics
-- Deep Learning
-- Explainable AI
-- AI Research
+- 🎓 **BS in Data Science**
+  - IIT Madras
 
----
+- 🏆 **GATE Qualified (Data Science)**
 
-# 🎓 Education
-
-### **B.Tech — Artificial Intelligence & Data Science**
-
-**Madhav Institute of Technology and Science (MITS), Gwalior**
-
-2023 – 2027
-
-**CGPA:** **9.10**
+- 📚 Research Interests
+  - Computer Vision
+  - Medical Imaging
+  - Vision Transformers
+  - Diffusion Models
+  - Digital Forensics
+  - Explainable AI
 
 ---
 
-### **BS in Data Science**
-
-**IIT Madras**
-
-Foundation Level
-
-Grade: **8.25**
-
----
-
-### **GATE Qualified**
-
-Data Science and Artificial Intelligence
-
-2026
-
----
-
-# ⚡ Tech Stack
+# Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,flask,linux,git,github,docker,vscode,latex&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,flask,linux,git,github,docker,latex,vscode&perline=6"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🎨 AnimeGen
 
-> High-fidelity image-to-anime generation using Deep Learning.
+Research-oriented image-to-anime generation using GANs, Canny Edge Detection, and Deep Learning.
 
 **Tech**
 
-`GANs`
-`Computer Vision`
-`Python`
-`OpenCV`
+`GANs` `Python` `OpenCV` `Computer Vision`
 
 ---
 
 ## 🎭 Deepfake Forensics
 
-Research-driven deepfake detection system built using
+Deepfake detection framework utilizing FaceForensics++ and FakeAVCeleb datasets for video authenticity analysis.
 
-- FaceForensics++
-- FakeAVCeleb
-- CNN-based detection
-- Video manipulation analysis
+**Focus**
+
+- Deep Learning
+- Video Analysis
+- Digital Forensics
 
 ---
 
 ## 😴 Real-Time Drowsiness Detection
 
-MediaPipe-powered driver monitoring system capable of real-time eye tracking and fatigue detection.
-
-**Highlights**
-
-- Lightweight
-- Real-time
-- No heavy GPU required
-- Optimized inference
+MediaPipe-powered driver monitoring system capable of lightweight real-time fatigue detection without heavy neural networks.
 
 ---
 
-## 🎯 AI Gameplay Bot
+## 🎮 AI Gameplay Bot
 
-Autonomous Fruit Ninja AI
-
-Built with
-
-- YOLOv8
-- CUDA
-- Object Detection
-- Reinforcement-inspired automation
+YOLOv8-powered autonomous Fruit Ninja AI capable of GPU-accelerated object detection and gameplay automation.
 
 ---
 
 ## 📊 GeekFusion Evaluation Engine
 
-Complete evaluation backend for technical events featuring
+Backend evaluation framework built using Flask featuring
 
-- Flask Backend
-- Automated score normalization
 - Multi-panel evaluation
-- Dynamic ranking
+- Automated score normalization
+- Dynamic rankings
+- Event-specific scoring
 
 ---
 
-# 🏆 Achievements
-
-🏅 Best Research Paper Award
-
-International Conference (Scopus Indexed)
-
-Anurag University
-
----
-
-🎓 GATE Qualified
-
-Data Science
-
----
-
-📚 Published and presented AI research in international conferences using Springer and Scientific Reports formatting.
-
----
-
-# 📖 Research Interests
+# Research Interests
 
 - Computer Vision
 - Deep Learning
-- Generative AI
-- Digital Forensics
-- Medical Imaging
-- Explainable AI
 - Vision Transformers
 - Diffusion Models
-
----
-
-# 🤝 Research Collaborations
-
-Actively collaborating on AI research and publications involving
-
-- Computer Vision
-- Medical Imaging
-- Deep Learning
+- Large Language Models
+- Explainable AI
 - Digital Forensics
-
-with multidisciplinary research teams.
+- Medical Image Analysis
 
 ---
 
-# 📫 Connect With Me
+# Publications & Research
+
+- Best Research Paper Award — International Scopus Indexed Conference
+- AI & Computer Vision Research
+- Springer & Scientific Reports LaTeX Formatting
+- Active Research Collaborations
+
+---
+
+# Leadership
+
+- Data & Operations Co-Head — Smart India Hackathon (Internal Rounds)
+- Outcome Based Education Coordinator
+- Research Collaboration & Technical Documentation
+
+---
+
+# Currently Exploring
+
+- Self-Supervised Learning
+- Vision Language Models
+- AI Agents
+- Multimodal Deep Learning
+- Explainable AI
+- Medical AI
+
+---
+
+# Let's Connect
 
 <p align="center">
 
 <a href="https://jeet-bhardwaj.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-0055FF?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/thejeetbhardwaj">
-<img src="https://img.shields.io/badge/LinkedIn-0055FF?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/GitHub-JeetBhardwaj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://huggingface.co/TheJeetBhardwaj">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
 <a href="mailto:thejeetbhardwaj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -231,9 +191,8 @@ with multidisciplinary research teams.
 
 <div align="center">
 
-### ⭐ Building AI that solves real-world problems.
+### *"Training machines to think, while learning how to rethink."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0055FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=120&section=footer"/>
 
 </div>
-```
