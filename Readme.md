@@ -1,59 +1,230 @@
 <div align="center">
 
-# 🤖 Hello World, I'm Jeet Bhardwaj! 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Jeet Bhardwaj
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="AI and Machine Learning Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Researcher;Computer+Vision+Enthusiast;Generative+AI+Developer;Open+Source+Contributor" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Artificial+Intelligence+Developer;Robotics+%26+Deep+Learning;Always+Learning+%26+Building" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=AI%20%7C%20ML%20%7C%20Deep%20Learning&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
-  <i>Passionate about training models, writing intelligent algorithms, and turning data into actionable insights.</i>
-</p>
+</div>
 
 ---
 
-### 🌐 Connect With Me
+# 🤖 About Me
+
+```yaml
+Name: Jeet Bhardwaj
+Role: AI Engineer
+Focus:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - LLMs
+  - Generative AI
+  - MLOps
+
+Current Status:
+  Learning:
+    - Multi-Agent AI
+    - RAG
+    - LangGraph
+    - CUDA
+    - Transformers
+
+Fun Fact:
+  "Turning Coffee ☕ into AI Models 🤖"
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="mailto:thejeetbhardwaj@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
-<a href="https://linkedin.com/in/thejeetbhardwaj">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://huggingface.co/TheJeetBhardwaj">
-  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
-</a>
-<a href="https://leetcode.com/u/Jeet_Bhardwaj_07/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
+
 <a href="https://github.com/GitHub-JeetBhardwaj">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
----
+<a href="https://linkedin.com/in/thejeetbhardwaj">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
 
-### 🧠 AI & ML Tech Stack
+<a href="https://huggingface.co/TheJeetBhardwaj">
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="55"/>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+<a href="https://leetcode.com/u/Jeet_Bhardwaj_07/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/>
+</a>
+
 </p>
 
 ---
 
-### ⚡ GitHub Analytics
+# ⚡ AI Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-JeetBhardwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jeet's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-JeetBhardwaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=azure"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="50" height="50" />
+---
+
+# 🧠 AI Domains
+
+| Domain | Expertise |
+|---------|-----------|
+| 🤖 Machine Learning | ██████████ |
+| 🧠 Deep Learning | █████████ |
+| 👁 Computer Vision | █████████ |
+| 💬 NLP | ████████ |
+| ⚡ LLMs | █████████ |
+| 🎨 Generative AI | █████████ |
+| 🔬 Research | ███████ |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GitHub-JeetBhardwaj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-JeetBhardwaj&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-JeetBhardwaj&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GitHub-JeetBhardwaj&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GitHub-JeetBhardwaj&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/GitHub-JeetBhardwaj/GitHub-JeetBhardwaj/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Jeet_Bhardwaj_07?theme=dark&font=JetBrains%20Mono"/>
+
+</p>
+
+---
+
+# 🤖 AI Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+```text
+✔ Large Language Models
+
+✔ RAG Pipelines
+
+✔ Multi-Agent Systems
+
+✔ LangGraph
+
+✔ Transformers
+
+✔ CUDA Programming
+
+✔ Diffusion Models
+
+✔ Computer Vision
+
+✔ MLOps
+
+✔ Reinforcement Learning
+```
+
+---
+
+# ⚙ Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=GitHub-JeetBhardwaj&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building the Future with Artificial Intelligence."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </div>
