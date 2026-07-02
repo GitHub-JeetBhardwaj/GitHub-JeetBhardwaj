@@ -125,15 +125,6 @@ Fun Fact:
 
 ---
 
-# 📊 Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-JeetBhardwaj&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -150,16 +141,6 @@ Fun Fact:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitHub-JeetBhardwaj&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/GitHub-JeetBhardwaj/GitHub-JeetBhardwaj/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -182,44 +163,6 @@ Fun Fact:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🚀 Current Focus
-
-```text
-✔ Large Language Models
-
-✔ RAG Pipelines
-
-✔ Multi-Agent Systems
-
-✔ LangGraph
-
-✔ Transformers
-
-✔ CUDA Programming
-
-✔ Diffusion Models
-
-✔ Computer Vision
-
-✔ MLOps
-
-✔ Reinforcement Learning
-```
-
----
-
-# ⚙ Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=GitHub-JeetBhardwaj&style=for-the-badge&color=blue"/>
-
-</p>
-
----
 
 <div align="center">
 
