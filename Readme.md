@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/thejeetbhardwaj">
       <img src="https://img.shields.io/badge/LinkedIn-White?style=for-the-badge&logo=linkedin&logoColor=0055FF&labelColor=white&color=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/GitHub-Jeet">
+    <a href="https://github.com/GitHub-JeetBhardwaj">
       <img src="https://img.shields.io/badge/GitHub-White?style=for-the-badge&logo=github&logoColor=0055FF&labelColor=white&color=white" alt="GitHub" />
     </a>
     <a href="mailto:thejeetbhardwaj@gmail.com">
@@ -42,7 +42,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-Jeet&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0055FF&icon_color=0055FF&text_color=333333" alt="Jeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-JeetBhardwaj&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0055FF&icon_color=0055FF&text_color=333333" alt="Jeet's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-Jeet&theme=default&hide_border=true&background=ffffff&ring=0055FF&fire=0055FF&currStreakNum=333333&sideLabels=0055FF&dates=333333" alt="Jeet's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-JeetBhardwaj&theme=default&hide_border=true&background=ffffff&ring=0055FF&fire=0055FF&currStreakNum=333333&sideLabels=0055FF&dates=333333" alt="Jeet's GitHub Streak" />
 </div>
